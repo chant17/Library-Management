@@ -1,0 +1,73 @@
+12
+Pattern Recognition
+William Gibson
+02/01/2005
+0425198685
+Yes
+
+Machine Learning
+Ethem Alpaydin
+12/04/2009
+026201243X
+Yes
+
+The Hawkins Lab
+Dexter
+02/02/2019
+123456CX
+No
+
+Thor Ragnarok
+Ice Cube
+20/20/2020
+12345QE12
+No
+
+50 Shades of GUI
+Swing Master
+20/12/2066
+12348MC
+Yes
+
+Real Life Spongebob
+Evil Patrick
+02/20/1999
+481293MC
+No
+
+I Cri Evrytim
+Spoder Mane
+10/39/1992
+121388AS
+Yes
+
+Rage Comics
+Gabbie Monzo
+12/31/2402
+1494922QW
+No
+
+Hello Darkness
+My Old Friend
+12/12/1212
+12121212HG
+No
+
+Harry and the Goblin
+Hackerman Gave
+1/21/2130
+1234523432X
+Yes
+
+Life Of Pie
+Scott Sterling
+31/12/2018
+12556442MX
+No
+
+1rser
+erwe
+erwer
+rewr
+No
+
